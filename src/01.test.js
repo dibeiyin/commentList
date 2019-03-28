@@ -1,1 +1,0 @@
-console.log('这是写在 test.js 中的代码')
